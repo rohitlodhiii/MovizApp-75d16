@@ -21,25 +21,3 @@ const Grid = ({ data }) => {
 };
 
 export default Grid;
-//  for (let movie of data) {
-//    return (
-//      <Card
-//        key={movie.imdbID}
-//        id={movie.imdbID}
-//        title={movie.Title}
-//        image={movie.Poster}
-//        year={movie.Year}
-//      />
-//    );
-
-//  data.map(({ movie }) => {
-//    return (
-//      <Card
-//        key={movie.imdbID}
-//        id={movie.imdbID}
-//        title={movie.Title}
-//        image={movie.Poster}
-//        year={movie.Year}
-//      />
-//    );
-//  });

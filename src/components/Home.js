@@ -45,7 +45,7 @@ const Home = () => {
   return (
     <>
       <div className="box">
-        <h1>Movie Zone</h1>
+        <h1>Moviz 75d16</h1>
         <p>Search for movie and get details</p>
         <div className="searchBox">
           <input
